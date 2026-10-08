@@ -39,7 +39,7 @@
 ## Storage, Archiving & Production Tracking
 
 - [AYON (OpenPype)](https://github.com/ynput/ayon-core) - Open-source pipeline for animation and VFX studios integrating with DCC applications.
-- [HuskHoard](https://github.com/huskhoard/huskhoard) - Data tiering and cold storage archive engine designed for media workloads, featuring HTTP byte-range retrieval for conforms.
+- [HuskHoard](https://github.com/huskhoard/huskhoard) - Media Asset Management, Data tiering and cold storage archive engine designed for media workloads, featuring HTTP byte-range retrieval for conforms.
 - [Kitsu](https://github.com/cgwire/kitsu) - Collaboration platform and production tracker for animation and visual effects studios.
 
 ## Broadcast, Streaming & Ingest
