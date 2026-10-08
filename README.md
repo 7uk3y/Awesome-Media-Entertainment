@@ -20,6 +20,7 @@
 
 ## Video Editing & Post-Production
 
+- [EffectCraft](https://github.com/storytold/effectcraft) - Open-source motion graphics and visual effects engine built in pure Rust.
 - [FilmCraft](https://github.com/storytold/filmcraft) - A clean-room reimplementation of a non-linear video editor written in pure Rust.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Cross-platform GUI for lossless trimming and cutting of video, audio, and subtitle streams.
 - [Natron](https://github.com/NatronGitHub/Natron) - Node-based digital compositor for visual effects and motion graphics.
@@ -54,6 +55,7 @@
 - [Ardour](https://github.com/Ardour/ardour) - Digital audio workstation (DAW) for recording, editing, mixing, and mastering audio.
 - [Audacity](https://github.com/audacity/audacity) - Multi-track audio editor and recorder for Windows, macOS, and Linux.
 - [JUCE](https://github.com/juce-framework/JUCE) - Cross-platform C++ application framework for desktop audio applications and VST/AU plugins.
+- [SoundCraft](https://github.com/storytold/soundcraft) - Open-source multi-track audio workstation and editor built in pure Rust.
 
 ---
 
